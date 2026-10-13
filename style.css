@@ -1,0 +1,48 @@
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: aliceblue;
+}
+.lista div {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.lista{
+display: flex;
+gap: 10px;
+}
+
+#caixa01:hover{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnT-mvZ_e54HznWa5o-E46TpMwhrhnXsdFjZBMnaRBfg&s=10
+    );
+    background-size: cover;
+}
+#caixa02:hover{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWkWqxaxzOn6fvKHM_Pd8kx7h0spf3I2rhMC0ZacFqSQ&s=10
+    );
+    background-size: cover;
+}
+#caixa03:hover{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWIZ3mxr5T0txoilpLt91CWu2hxzElalQlKDugANGpEQ&s=10
+    );
+    background-size: cover;
+}
+#caixa04:hover{
+    background-image: url(https://s2.glbimg.com/qKc48brGaN-D4JmedXMfBThezAk=/e.glbimg.com/og/ed/f/original/2021/01/07/cidade.jpg
+    );
+    background-size: cover;
+}
+#caixa05:hover{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR72o2lRzl_rcEYKuTULt8dvaaMUhRbW9MfaQaajTeHHQwZya4JIqT4hqbe&s=10
+    );
+    background-size: cover;
+}
+#caixa06:hover{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0sjlgtE0eVZMbmBVUcAReKqk8liknRlFMs0QdC03iJQ&s=10
+    );
+    background-size: cover;
+}
